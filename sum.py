@@ -1,1 +1,1 @@
-print("Sum is : ",5+30)
+print("Sum is : ",5+15)
